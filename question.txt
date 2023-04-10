@@ -1,0 +1,9 @@
+// full stack psc
+BMI calculator app
+
+1]register or signup --- name , email ,password
+2] /login -- email , password
+3] /getProfile  -- name ,email from the DB - 
+4] /calculateBMI - height(in feet), weight(kgs) -> o/p -> BMi value ->weight/height^2;
+5] /getCalculation - send history ->send all previous BMI data of that particular user
+6]logout--> clear token on the frontend.
